@@ -1,1 +1,1 @@
-inheritance
+inheritance, object oriented programming
